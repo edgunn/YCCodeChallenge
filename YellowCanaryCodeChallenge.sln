@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YellowCanaryCodeChallenge", "YellowCanaryCodeChallenge\YellowCanaryCodeChallenge.csproj", "{63E1C095-4B3D-41E2-BF06-EC2530C16044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YellowCanaryCodeChallenge.Test", "YellowCanaryCodeChallenge.Test\YellowCanaryCodeChallenge.Test.csproj", "{6485337D-D961-4678-8031-EAE5D992BB88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E1C095-4B3D-41E2-BF06-EC2530C16044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E1C095-4B3D-41E2-BF06-EC2530C16044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E1C095-4B3D-41E2-BF06-EC2530C16044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E1C095-4B3D-41E2-BF06-EC2530C16044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6485337D-D961-4678-8031-EAE5D992BB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6485337D-D961-4678-8031-EAE5D992BB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6485337D-D961-4678-8031-EAE5D992BB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6485337D-D961-4678-8031-EAE5D992BB88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDD70A8E-3476-4FFD-A9FF-9B588012383F}
+	EndGlobalSection
+EndGlobal
